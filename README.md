@@ -18,8 +18,6 @@ Dataset Link: [Credit Card Fraud Detection Dataset on Kaggle](https://www.kaggle
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
-- [Features](#features)
-- [Model Building and Evaluation](#model-building-and-evaluation)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
